@@ -1,0 +1,7 @@
+.MuiDataGrid-root .MuiDataGrid-cell:focus {
+    outline: none;
+}
+
+.MuiDataGrid-root .MuiDataGrid-columnHeader:focus {
+    outline: none;
+}
