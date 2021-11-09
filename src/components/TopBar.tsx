@@ -4,7 +4,7 @@ import * as React from "react";
 
 export const TopBar = () => {
     return (
-        <AppBar position="static" color={"primary"}>
+        <AppBar position="static" color={"secondary"}>
             <Toolbar>
                 <IconButton
                     size="large"
@@ -15,7 +15,7 @@ export const TopBar = () => {
                 >
                     <MenuIcon />
                 </IconButton>
-                <span>Magnificent Task v0.10</span>
+                <span>Magnificent Task v0.20</span>
             </Toolbar>
         </AppBar>
     )
